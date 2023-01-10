@@ -18,5 +18,4 @@ function number_guess_computer()
         print("\nComputer guessed: $guess")
     end
 end
-
 number_guess_computer()
